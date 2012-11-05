@@ -1,4 +1,2 @@
-mtdbd
-=====
-
-MTDBD
+Multi-tenant JDBC Driver for MySQL
+==================================
